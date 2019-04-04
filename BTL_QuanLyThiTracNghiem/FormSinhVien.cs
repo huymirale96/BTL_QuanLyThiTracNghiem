@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 
 //lan2
+//sua tren git btl
 
 namespace BTL_QuanLyThiTracNghiem
 {
