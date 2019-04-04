@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
-//lan1
+//lan2
 
 namespace BTL_QuanLyThiTracNghiem
 {
