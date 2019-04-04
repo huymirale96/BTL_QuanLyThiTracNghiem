@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
+//lan1
+
 namespace BTL_QuanLyThiTracNghiem
 {
     public partial class FormSinhVien : Form
